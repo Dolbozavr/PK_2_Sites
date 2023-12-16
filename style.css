@@ -260,7 +260,8 @@ body {
 
 
 .footer__image {
-    width: 1440px;
+    background-image: url(/Assets/Rectangle.png);
+    /* width: 1440px;
     height: 574px;
-    margin-left: auto;
+    margin-left: auto; */
 }
